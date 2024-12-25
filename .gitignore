@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log
+
+.env
+
+config/*.json
+
+logs/
+*.log
+
+tests/*.json
+tests/*.log
+
+.vscode/
+
+.DS_Store
